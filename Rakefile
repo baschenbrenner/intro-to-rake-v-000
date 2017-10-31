@@ -15,5 +15,3 @@ namespace :db do
     require_relative './config/environment'
   end
 end
-
-
